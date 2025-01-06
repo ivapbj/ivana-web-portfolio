@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ivana-web-portfolio/static/css/main.71727d42.css",
+    "main.js": "/ivana-web-portfolio/static/js/main.93688caa.js",
+    "static/media/ivanalogo.png": "/ivana-web-portfolio/static/media/ivanalogo.c849b7f41688caca03cb.png",
+    "index.html": "/ivana-web-portfolio/index.html",
+    "main.71727d42.css.map": "/ivana-web-portfolio/static/css/main.71727d42.css.map",
+    "main.93688caa.js.map": "/ivana-web-portfolio/static/js/main.93688caa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71727d42.css",
+    "static/js/main.93688caa.js"
+  ]
+}
