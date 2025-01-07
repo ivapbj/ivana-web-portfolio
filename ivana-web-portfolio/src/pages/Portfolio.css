@@ -34,7 +34,7 @@ body {
 
 /* Style for individual projects (Jeopardy, Zorkington, etc.) */
 .jeopardy,
-.Zorkington,
+.Guess,
 .Hunter {
   background-color: #f0f0f0;
   border: 1px solid #ccc;
@@ -46,7 +46,7 @@ body {
 }
 
 .jeopardy:hover,
-.Zorkington:hover,
+.Guess:hover:hover,
 .Hunter:hover {
   transform: scale(1.05);
 }
