@@ -1,0 +1,76 @@
+/* Resetting some default styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.portfolio {
+  padding: 20px;
+  text-align: center;
+}
+
+/* Style the project board container */
+.project-board {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columns */
+  grid-gap: 20px; /* Gap between the items */
+  margin-top: 20px;
+}
+
+/* Style individual project items */
+.project {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  padding: 20px;
+  text-align: center;
+  font-size: 18px;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+}
+
+.project:hover {
+  transform: scale(1.05);
+}
+
+/* Style for individual projects (Jeopardy, Zorkington, etc.) */
+.jeopardy,
+.Zorkington,
+.Hunter {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  padding: 20px;
+  text-align: center;
+  font-size: 18px;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+}
+
+.jeopardy:hover,
+.Zorkington:hover,
+.Hunter:hover {
+  transform: scale(1.05);
+}
+
+/* Style for the project images */
+.jeopardy-pic,
+.project-pic {
+  width: 100%;
+  height: auto;
+  max-width: 300px; /* Adjust this to the desired size */
+  margin-top: 10px; /* Space between the div and the image */
+  border-radius: 8px;
+}
+
+/* Responsiveness: 2 columns on smaller screens */
+@media (max-width: 768px) {
+  .project-board {
+    grid-template-columns: repeat(2, 1fr); /* 2 columns */
+  }
+}
+
+/* Responsiveness: 1 column on very small screens */
+@media (max-width: 480px) {
+  .project-board {
+    grid-template-columns: 1fr; /* 1 column */
+  }
+}
