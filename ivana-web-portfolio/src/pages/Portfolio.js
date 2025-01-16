@@ -3,7 +3,7 @@ import "./Portfolio.css";
 import JeopardyImage from "./jeopardyimage.png";
 import GuessImage from "./GuessImage.png";
 import HunterImage from "./Hunterlogo.jpg";
-import SpaLogo from "./spalogo.png";
+import SpaLogo from "./newlogo.png";
 import GreenBus from "./greenbus.jpg";
 import FlyerImage from "./digitalflyer.png";
 
