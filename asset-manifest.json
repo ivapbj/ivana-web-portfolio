@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/web-portfolio/static/css/main.36fd8fd0.css",
-    "main.js": "/web-portfolio/static/js/main.2a9e9052.js",
+    "main.js": "/web-portfolio/static/js/main.c6414542.js",
     "static/media/jeopardyimage.png": "/web-portfolio/static/media/jeopardyimage.f51d231d5bc5448366de.png",
     "static/media/digitalflyer.png": "/web-portfolio/static/media/digitalflyer.b467cdc33b13837814d0.png",
     "static/media/greenbus.jpg": "/web-portfolio/static/media/greenbus.6dd16902a554e7ec7106.jpg",
     "static/media/Hunterlogo.jpg": "/web-portfolio/static/media/Hunterlogo.c0174ffd1dc67aeb7f95.jpg",
-    "static/media/spalogo.png": "/web-portfolio/static/media/spalogo.f39302095b76230fc5f5.png",
+    "static/media/newlogo.png": "/web-portfolio/static/media/newlogo.f39302095b76230fc5f5.png",
     "static/media/GuessImage.png": "/web-portfolio/static/media/GuessImage.3e9cd7b087440a8e441c.png",
     "index.html": "/web-portfolio/index.html",
     "main.36fd8fd0.css.map": "/web-portfolio/static/css/main.36fd8fd0.css.map",
-    "main.2a9e9052.js.map": "/web-portfolio/static/js/main.2a9e9052.js.map"
+    "main.c6414542.js.map": "/web-portfolio/static/js/main.c6414542.js.map"
   },
   "entrypoints": [
     "static/css/main.36fd8fd0.css",
-    "static/js/main.2a9e9052.js"
+    "static/js/main.c6414542.js"
   ]
 }
