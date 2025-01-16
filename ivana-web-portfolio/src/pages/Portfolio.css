@@ -44,6 +44,17 @@ body {
   border-radius: 8px;
   transition: transform 0.3s ease;
 }
+.GSpa,
+.IndyGo,
+.Flyer {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  padding: 20px;
+  text-align: center;
+  font-size: 18px;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+}
 
 .jeopardy:hover,
 .Guess:hover:hover,
@@ -56,11 +67,15 @@ body {
 .project-pic {
   width: 100%;
   height: auto;
-  max-width: 300px; /* Adjust this to the desired size */
+  max-width: 700px; /* Adjust this to the desired size */
   margin-top: 10px; /* Space between the div and the image */
   border-radius: 8px;
 }
-
+.GSpa:hover,
+.IndyGo:hover,
+.Flyer:hover{
+  transform: scale(1.05);
+}
 /* Responsiveness: 2 columns on smaller screens */
 @media (max-width: 768px) {
   .project-board {

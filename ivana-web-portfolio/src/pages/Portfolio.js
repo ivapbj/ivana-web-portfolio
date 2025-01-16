@@ -1,7 +1,7 @@
 import React from "react";
 import "./Portfolio.css";
 import JeopardyImage from "./jeopardyimage.png";
-import GuessImage from "./guess-image.png";
+import GuessImage from "./GuessImage.png";
 import HunterImage from "./Hunterlogo.jpg";
 import SpaLogo from "./spalogo.png";
 import GreenBus from "./greenbus.jpg";
@@ -10,7 +10,7 @@ import FlyerImage from "./digitalflyer.png";
 const Portfolio = () => {
   return (
     <div className="portfolio">
-      <h1>Portfolio</h1>
+      <h1>Ivana's Dev Portfolio</h1>
       <div className="project-board">
         {/* Interactive Game */}
         <div className="jeopardy">
