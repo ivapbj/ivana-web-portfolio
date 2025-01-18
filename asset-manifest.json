@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ivana-web-portfolio/static/css/main.36fd8fd0.css",
-    "main.js": "/ivana-web-portfolio/static/js/main.919c25dd.js",
+    "main.js": "/ivana-web-portfolio/static/js/main.e94cfb11.js",
     "static/media/jeopardyimage.png": "/ivana-web-portfolio/static/media/jeopardyimage.f51d231d5bc5448366de.png",
     "static/media/digitalflyer.png": "/ivana-web-portfolio/static/media/digitalflyer.b467cdc33b13837814d0.png",
     "static/media/greenbus.jpg": "/ivana-web-portfolio/static/media/greenbus.6dd16902a554e7ec7106.jpg",
@@ -10,10 +10,10 @@
     "static/media/GuessImage.png": "/ivana-web-portfolio/static/media/GuessImage.3e9cd7b087440a8e441c.png",
     "index.html": "/ivana-web-portfolio/index.html",
     "main.36fd8fd0.css.map": "/ivana-web-portfolio/static/css/main.36fd8fd0.css.map",
-    "main.919c25dd.js.map": "/ivana-web-portfolio/static/js/main.919c25dd.js.map"
+    "main.e94cfb11.js.map": "/ivana-web-portfolio/static/js/main.e94cfb11.js.map"
   },
   "entrypoints": [
     "static/css/main.36fd8fd0.css",
-    "static/js/main.919c25dd.js"
+    "static/js/main.e94cfb11.js"
   ]
 }
