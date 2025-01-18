@@ -36,7 +36,7 @@ const Portfolio = () => {
           </a>
         </div>
         <div className="Hunter">
-          <h4>Functional Landing Page</h4>
+          <h4>Landing Page with BootStrap</h4>
           <a
             href="https://ivapbj.github.io/Hunter-Termite/"
             target="blank"
